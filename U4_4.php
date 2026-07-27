@@ -28,6 +28,8 @@
     {
         echo "Error: "; 
     }
+    $stmt->close();
+    $conn->clode();
     ?>
 </body>
 </html>
