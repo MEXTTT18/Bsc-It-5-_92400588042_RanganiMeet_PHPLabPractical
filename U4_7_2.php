@@ -13,7 +13,7 @@
 
             $conn->exec($sql);
 
-            echo "Record Deleted !!";
+            echo "Record Updated!!";
         ?>
     </body>
     </html>
